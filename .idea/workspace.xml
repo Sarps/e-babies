@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd22777e-05f9-4a4e-9695-537472c76685" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dfa723c3-32e1-460c-b13a-70c1658ced57.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/dfa723c3-32e1-460c-b13a-70c1658ced57.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Add-Admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/Add-Admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Add-doctor.php" beforeDir="false" afterPath="$PROJECT_DIR$/Add-doctor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-account.php" beforeDir="false" afterPath="$PROJECT_DIR$/add-account.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-lab.php" beforeDir="false" afterPath="$PROJECT_DIR$/add-lab.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-nurse.php" beforeDir="false" afterPath="$PROJECT_DIR$/add-nurse.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-pharmacy.php" beforeDir="false" afterPath="$PROJECT_DIR$/add-pharmacy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-receptionist.php" beforeDir="false" afterPath="$PROJECT_DIR$/add-receptionist.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin-dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/add-prescription.php" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/add-prescription.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/doctor-dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/doctor-dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timetable.php" beforeDir="false" afterPath="$PROJECT_DIR$/timetable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view-account.php" beforeDir="false" afterPath="$PROJECT_DIR$/view-account.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view-admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/view-admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view-doctor.php" beforeDir="false" afterPath="$PROJECT_DIR$/view-doctor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view-laboratory.php" beforeDir="false" afterPath="$PROJECT_DIR$/view-laboratory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view-nurse.php" beforeDir="false" afterPath="$PROJECT_DIR$/view-nurse.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view-pharmacy.php" beforeDir="false" afterPath="$PROJECT_DIR$/view-pharmacy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view-reception.php" beforeDir="false" afterPath="$PROJECT_DIR$/view-reception.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view-timetable.php" beforeDir="false" afterPath="$PROJECT_DIR$/view-timetable.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1iCDw7MJ4vnUBUQGycuP2K5fCYQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Built-In Server" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8080">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd22777e-05f9-4a4e-9695-537472c76685" name="Default Changelist" comment="" />
+      <created>1601402917326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601402917326</updated>
+      <workItem from="1601402919393" duration="1714000" />
+      <workItem from="1601416319407" duration="4191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="805" y="204" key="#PHP" timestamp="1601403110146">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="805" y="204" key="#PHP/0.0.1920.1080@0.0.1920.1080" timestamp="1601403110146" />
+    <state x="336" y="380" key="#SQL_Dialects" timestamp="1601403013669">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="336" y="380" key="#SQL_Dialects/0.0.1920.1080@0.0.1920.1080" timestamp="1601403013669" />
+    <state x="552" y="197" width="1092" height="731" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601403112280">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="197" width="1092" height="731" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601403112280" />
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1601416415120">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601416415120" />
+    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1601416415119">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601416415119" />
+    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1601416415119">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601416415119" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1601416415120">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601416415120" />
+    <state x="835" y="429" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1601419886072">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="835" y="429" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1080@0.0.1920.1080" timestamp="1601419886072" />
+    <state x="666" y="244" width="587" height="614" key="find.popup" timestamp="1601418700763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="666" y="244" width="587" height="614" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601418700763" />
+  </component>
+</project>
