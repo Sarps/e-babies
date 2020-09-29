@@ -135,36 +135,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12 text-center">
-                        <h1 class="heading1">Welcome to Pharmacy Dashboard Of Hospital Management System</h1>
-                        <h3 class="heading2">Introduction.</h3>
-                        <p class="check">A hospital management system (HMS) is a computer or web based system that facilitates managing the functioning of the hospital or any medical set up. This system or software will help in making the whole functioning paperless.
-                            It integrates all the information regarding patients, doctors, staff, hospital administrative details etc. into one software. It has sections for various professionals that make up a hospital.</p>
-                        <p class="check">The health system is one of essential socio-economic activities; therefore, it requires rational and effective management. For this, it is necessary to have a tool that allows adequate control of the information generated in health
-                            institutions. Hospitals, as the main actors of the health system, generate an essential volume of information, but in most cases, it is dispersed or not available in the necessary time and manner.
-                        </p>
-                        <p class="check"> In recent years, health information systems have helped improve the quality of life of people in all sectors of our society, so it is inevitable to adhere to this dizzying technological career. Currently, clinical and administrative
-                            management of hospitals and health centers is possible through a single platform, with the support of cutting-edge technology, developed to optimize the processes that allow the operation of organizations dedicated to treating
-                            patients in any branch of the medicine.
-                        </p>
-                        <p class="check"> Hospital management systems allows us the ability to optimize and digitize all the processes within the institution, which will help to improve customer service, reduce process costs, streamline the search of medical records, bills,
-                            patients, doctors, etc.
-                        </p>
-                        <p class="check"> Thus, having a database of each module implemented. A hospital management system is a web system developed for companies that wish to manage their processes, implementing modules for each of the required areas. It is essential
-                            to mention that the information is controlled by trained personnel.
-
-                        </p>
-                        <p class="check"> Computer technology is only a tool that allows us to perfect the inveterate use of paper records (notebooks, index cards, diaries, bibliographies, record books), or more recently, cassettes or video cassettes. A PC only collects
-                            and processes data; it is the individual that acquires information.
-                        </p>
-
-                        <p class="check">In the financial-accounting area, the hospital management system must unify all the departments in a single source of information, so that the accounting processes are faster, the information exports are automatic, and the non-conformities
-                            are reduced, strengthening the control of billing and payment flows, decreasing the default rates and the loss of income due to accounting errors. In the clinical area, it is essential that the hospital management system controls
-                            all patient records, from entry into the health service to discharge, thus ensuring information that can generate studies and statistical reports of endemic processes, specialties most requested, indicative of epidemic, etc.
-                            It is essential to mention that the adoption of a Patient Electronic Clinical Record integrated into the hospital management system allows the safe registration of medical procedures, containment of expenses, detailed evaluation
-                            of information, and, mainly, improves the quality of patient care. In the operational department, it is necessary that the hospital management system control the scheduling of online medical appointments to reduce ranks and
-                            improve face-to-face care, in addition to prioritizing urgent and emergency care according to the degree of complexity and risk to health. The system must also reduce the bureaucratic flow during the patient care processes
-                            to allow shorter time in the hospital and increase the level of satisfaction.</p>
-
+                        <h1 class="heading1">Welcome to E-Babies Pharmacy Dashboard</h1>
                     </div>
 
                 </div>

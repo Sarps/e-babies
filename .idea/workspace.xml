@@ -14,6 +14,9 @@
       <change beforePath="$PROJECT_DIR$/admin-dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin-dashboard.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doctor/add-prescription.php" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/add-prescription.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doctor/doctor-dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/doctor-dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pharmacy/pharmacy-dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/pharmacy/pharmacy-dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pharmacy/view-bill.php" beforeDir="false" afterPath="$PROJECT_DIR$/pharmacy/view-bill.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pharmacy/view-member.php" beforeDir="false" afterPath="$PROJECT_DIR$/pharmacy/view-member.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/timetable.php" beforeDir="false" afterPath="$PROJECT_DIR$/timetable.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view-account.php" beforeDir="false" afterPath="$PROJECT_DIR$/view-account.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view-admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/view-admin.php" afterDir="false" />
@@ -61,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601402917326</updated>
       <workItem from="1601402919393" duration="1714000" />
-      <workItem from="1601416319407" duration="4191000" />
+      <workItem from="1601416319407" duration="5371000" />
     </task>
     <servers />
   </component>
@@ -101,9 +104,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="835" y="429" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1080@0.0.1920.1080" timestamp="1601419886072" />
-    <state x="666" y="244" width="587" height="614" key="find.popup" timestamp="1601418700763">
+    <state x="666" y="244" width="587" height="614" key="find.popup" timestamp="1601421694479">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="666" y="244" width="587" height="614" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601418700763" />
+    <state x="666" y="244" width="587" height="614" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601421694479" />
   </component>
 </project>

@@ -98,7 +98,7 @@
                                 <a href="add-bill.php">Record Amount Of Bill</a>
                             </li>
                             <li>
-                                <a href="view-bill"class="active-menu">View All Bill</a>
+                                <a href="view-bill.php"class="active-menu">View All Bill</a>
                             </li>
                         
                         </ul>
