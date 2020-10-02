@@ -62,8 +62,14 @@ function fill_brand($connect)
             <li>
                 <a href="nurse-dashboard.php"><i class="fa fa-dashboard"></i> Home</a>
             </li>
+
             <li>
-                <a href="add-record.php" class="active-menu"><i class="fa fa-sitemap"></i> Record Patient Signs</a>
+                <a href="#" class="active-menu"><i class="fa fa-sitemap"></i> Patient Record<span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level">
+                    <li>
+                        <a href="add-record.php" class="active-menu">Record Vital Signs</a>
+                    </li>
+                </ul>
             </li>
 
             <li>

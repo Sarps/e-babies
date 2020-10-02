@@ -106,7 +106,12 @@ function fill_brand($connect)
                 </li>
 
                 <li>
-                    <a href="view-appointment.php"><i class="fa fa-sitemap"></i> View All OPD Appointment</a>
+                    <a href="#"><i class="fa fa-sitemap"></i> Patient Record<span class="fa arrow"></span></a>
+                    <ul class="nav nav-second-level">
+                        <li>
+                            <a href="add-record.php">Record Vital Signs</a>
+                        </li>
+                    </ul>
                 </li>
 
                 <li>

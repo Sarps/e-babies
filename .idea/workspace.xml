@@ -20,48 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd22777e-05f9-4a4e-9695-537472c76685" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/nurse/_nav.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/add-prescription.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/add-record.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/assets/css/add.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/assets/css/admin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/assets/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/assets/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/assets/img/bg-img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/assets/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/assets/js/custom-scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/assets/js/jquery-1.10.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/assets/js/jquery.metisMenu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/errors.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/jquerry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/jquery-1.12.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/jquery.timepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/jquery.timepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/load.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/nurse-dashboard.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/rec-member.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/rec.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/server.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/view-appointment.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/view-prescription.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nurse/view-schedule.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dfa723c3-32e1-460c-b13a-70c1658ced57.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/dfa723c3-32e1-460c-b13a-70c1658ced57.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-doctor.php" beforeDir="false" afterPath="$PROJECT_DIR$/Add-doctor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add-account.php" beforeDir="false" afterPath="$PROJECT_DIR$/add-account.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add-lab.php" beforeDir="false" afterPath="$PROJECT_DIR$/add-lab.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add-nurse.php" beforeDir="false" afterPath="$PROJECT_DIR$/add-nurse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add-pharmacy.php" beforeDir="false" afterPath="$PROJECT_DIR$/add-pharmacy.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add-receptionist.php" beforeDir="false" afterPath="$PROJECT_DIR$/add-receptionist.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/add-prescription.php" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/add-prescription.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharmacy/pharmacy-dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/pharmacy/pharmacy-dashboard.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.php" beforeDir="false" afterPath="$PROJECT_DIR$/server.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user-dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/user/user-dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nurse/_nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/nurse/_nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nurse/server.php" beforeDir="false" afterPath="$PROJECT_DIR$/nurse/server.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nurse/view-prescription.php" beforeDir="false" afterPath="$PROJECT_DIR$/nurse/view-prescription.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nurse/view-schedule.php" beforeDir="false" afterPath="$PROJECT_DIR$/nurse/view-schedule.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +74,7 @@
       <workItem from="1601416319407" duration="6322000" />
       <workItem from="1601570182623" duration="5044000" />
       <workItem from="1601599887177" duration="3099000" />
-      <workItem from="1601606573550" duration="599000" />
+      <workItem from="1601606573550" duration="2209000" />
     </task>
     <servers />
   </component>
@@ -143,22 +106,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="197" width="1092" height="731" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601403112280" />
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1601582954933">
+    <state x="690" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601613572132">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601582954933" />
-    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1601582954932">
+    <state x="690" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601613572132" />
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1601613572532">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601582954932" />
-    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1601582954932">
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601613572532" />
+    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1601613572532">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601582954932" />
-    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1601582954932">
+    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601613572532" />
+    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1601613572531">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601582954932" />
+    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601613572531" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1601613572532">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601613572532" />
     <state x="795" y="463" key="NewPhpFileDialog" timestamp="1601572609500">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

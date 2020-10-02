@@ -100,13 +100,13 @@ if (isset($_POST['rec_vitals'])) {
         $query = "INSERT INTO vitals( `temperature`, `pressure`, `respiratory`, `pulse`, `height`, `weight`, `complaint`)
      VALUES ('$temperature','$pressure','$respiratory','$pulse','$height','$weight', '$complaint')";
         $query_run = mysqli_query($db, $query);
-        $_SESSION['status'] = "User Signed Up successfully";
+        $_SESSION['status'] = "Vitals recorded successfully";
 
         $_SESSION['status_code'] = "success";
-        array_push($errors, "Successfully registered");
+        array_push($errors, "Successfully saved");
 
     } else {
-        $_SESSION['status'] = "You are not Successfully Sign Up";
+        $_SESSION['status'] = "Record Saved";
         $_SESSION['status_code'] = "error";
         array_push($errors, "Successfully not registered some error ocurred");
     }
