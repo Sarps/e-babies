@@ -39,7 +39,7 @@
                             
                         </div>
                         <div class="form-group">
-                            <input type="username" name="mobile"style="outline: none;" placeholder=" Mobile no Prattern: 03010000000"pattern="[0-9]{4}[0-9]{7}" required>
+                            <input type="username" name="mobile"style="outline: none;" placeholder=" Mobile no Prattern: 03010000000" required>
                             <span class="input-icon"><i class="fa fa-mobile"></i></span>
                         </div>
                         <div class="form-group">

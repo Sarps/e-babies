@@ -21,7 +21,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta content="" name="description" />
     <meta content="webthemez" name="author" />
-    <title>Doctor Panel</title>
+    <title>Nurse Panel</title>
     <!-- Bootstrap Styles-->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <!-- FontAwesome Styles-->
@@ -84,7 +84,7 @@
             <ul class="nav" id="main-menu">
 
 <li>
-    <a  href="doctor-dashboard.php"><i class="fa fa-dashboard"></i> Home</a>
+    <a  href="nurse-dashboard.php"><i class="fa fa-dashboard"></i> Home</a>
 </li>
 <!-- <li>
     <a href="#"><i class="fa fa-desktop"></i> UI Elements</a>

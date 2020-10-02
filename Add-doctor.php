@@ -220,7 +220,7 @@
                    
                     <div class="form-group">
                         <label for="contact">Contact:</label>
-                        <input type="text" class="form-control"   name="mobile"placeholder=" Mobile no Prattern: 03010000000"pattern="[0-9]{4}[0-9]{7}" required>
+                        <input type="text" class="form-control"   name="mobile"placeholder=" Mobile no Prattern: 03010000000" required>
                     </div>
                     
                     <div class="form-group">

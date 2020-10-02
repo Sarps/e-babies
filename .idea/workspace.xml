@@ -1,31 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cd22777e-05f9-4a4e-9695-537472c76685" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/nurse/_nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/add-prescription.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/add-record.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/assets/css/add.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/assets/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/assets/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/assets/img/bg-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/assets/js/custom-scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/assets/js/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/assets/js/jquery.metisMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/errors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/jquerry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/jquery-1.12.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/jquery.timepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/jquery.timepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/load.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/nurse-dashboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/rec-member.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/rec.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/view-appointment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/view-prescription.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nurse/view-schedule.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/dfa723c3-32e1-460c-b13a-70c1658ced57.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/dfa723c3-32e1-460c-b13a-70c1658ced57.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add-Admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/Add-Admin.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Add-doctor.php" beforeDir="false" afterPath="$PROJECT_DIR$/Add-doctor.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add-account.php" beforeDir="false" afterPath="$PROJECT_DIR$/add-account.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add-lab.php" beforeDir="false" afterPath="$PROJECT_DIR$/add-lab.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add-nurse.php" beforeDir="false" afterPath="$PROJECT_DIR$/add-nurse.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add-pharmacy.php" beforeDir="false" afterPath="$PROJECT_DIR$/add-pharmacy.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add-receptionist.php" beforeDir="false" afterPath="$PROJECT_DIR$/add-receptionist.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin-dashboard.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doctor/add-prescription.php" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/add-prescription.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/doctor-dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/doctor-dashboard.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pharmacy/pharmacy-dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/pharmacy/pharmacy-dashboard.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharmacy/view-bill.php" beforeDir="false" afterPath="$PROJECT_DIR$/pharmacy/view-bill.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pharmacy/view-member.php" beforeDir="false" afterPath="$PROJECT_DIR$/pharmacy/view-member.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timetable.php" beforeDir="false" afterPath="$PROJECT_DIR$/timetable.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view-account.php" beforeDir="false" afterPath="$PROJECT_DIR$/view-account.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view-admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/view-admin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view-doctor.php" beforeDir="false" afterPath="$PROJECT_DIR$/view-doctor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view-laboratory.php" beforeDir="false" afterPath="$PROJECT_DIR$/view-laboratory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view-nurse.php" beforeDir="false" afterPath="$PROJECT_DIR$/view-nurse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view-pharmacy.php" beforeDir="false" afterPath="$PROJECT_DIR$/view-pharmacy.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view-reception.php" beforeDir="false" afterPath="$PROJECT_DIR$/view-reception.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view-timetable.php" beforeDir="false" afterPath="$PROJECT_DIR$/view-timetable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.php" beforeDir="false" afterPath="$PROJECT_DIR$/server.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/user-dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/user/user-dashboard.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +84,15 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/nurse" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\C809610\Projects\Tests\hospital-management-system-in-php\nurse" />
+      <recent name="C:\Users\C809610\Projects\Tests\hospital-management-system-in-php" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Built-In Server" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8080">
@@ -64,12 +108,27 @@
       <option name="presentableId" value="Default" />
       <updated>1601402917326</updated>
       <workItem from="1601402919393" duration="1714000" />
-      <workItem from="1601416319407" duration="5371000" />
+      <workItem from="1601416319407" duration="6322000" />
+      <workItem from="1601570182623" duration="5044000" />
+      <workItem from="1601599887177" duration="3099000" />
+      <workItem from="1601606573550" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="805" y="204" key="#PHP" timestamp="1601403110146">
@@ -84,29 +143,37 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="197" width="1092" height="731" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601403112280" />
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1601416415120">
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1601582954933">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601416415120" />
-    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1601416415119">
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601582954933" />
+    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1601582954932">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601416415119" />
-    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1601416415119">
+    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601582954932" />
+    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1601582954932">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601416415119" />
-    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1601416415120">
+    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601582954932" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1601582954932">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601416415120" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601582954932" />
+    <state x="795" y="463" key="NewPhpFileDialog" timestamp="1601572609500">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="795" y="463" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601572609500" />
     <state x="835" y="429" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1601419886072">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="835" y="429" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1080@0.0.1920.1080" timestamp="1601419886072" />
-    <state x="666" y="244" width="587" height="614" key="find.popup" timestamp="1601421694479">
+    <state x="818" y="286" width="472" height="508" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1601605493451">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="666" y="244" width="587" height="614" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601421694479" />
+    <state x="818" y="286" width="472" height="508" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601605493451" />
+    <state x="666" y="244" width="587" height="614" key="find.popup" timestamp="1601571597762">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="666" y="244" width="587" height="614" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601571597762" />
   </component>
 </project>
