@@ -261,6 +261,36 @@ INSERT INTO `timetable` (`id`, `username`, `type`, `day`, `room`, `date`, `start
 -- Indexes for dumped tables
 --
 
+create table vitals
+(
+    id int auto_increment
+    primary key,
+    temperature varchar (215) null,
+    pressure varchar (215) null,
+    respiratory varchar (215) null,
+    pulse varchar (215) null,
+    height varchar (215) null,
+    weight varchar (215) null,
+    complaint text null
+);
+
+
+create table laboratory
+(
+    patient varchar (250) null,
+    urine varchar (250) null,
+    blood_group varchar (250) null,
+    diabetes varchar (250) null,
+    malaria varchar (250) null,
+    diarrhoea varchar (250) null,
+    cholera varchar (250) null,
+    hiv_aids varchar (250) null,
+    sickle_cell varchar (250) null,
+    date datetime null
+);
+
+
+
 --
 -- Indexes for table `admin`
 --

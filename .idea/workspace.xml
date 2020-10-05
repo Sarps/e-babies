@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd22777e-05f9-4a4e-9695-537472c76685" name="Default Changelist" comment="" />
+    <list default="true" id="cd22777e-05f9-4a4e-9695-537472c76685" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mysql database/hms.sql" beforeDir="false" afterPath="$PROJECT_DIR$/mysql database/hms.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +81,7 @@
       <workItem from="1601570182623" duration="5044000" />
       <workItem from="1601599887177" duration="3099000" />
       <workItem from="1601606573550" duration="2209000" />
-      <workItem from="1601930489651" duration="8293000" />
+      <workItem from="1601930489651" duration="8424000" />
     </task>
     <servers />
   </component>
