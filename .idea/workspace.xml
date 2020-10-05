@@ -19,17 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd22777e-05f9-4a4e-9695-537472c76685" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/News.html" beforeDir="false" afterPath="$PROJECT_DIR$/News.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appointment.php" beforeDir="false" afterPath="$PROJECT_DIR$/appointment.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forget.php" beforeDir="false" afterPath="$PROJECT_DIR$/forget.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
-    </list>
+    <list default="true" id="cd22777e-05f9-4a4e-9695-537472c76685" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +59,13 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SQLScriptSettings">
+    <option name="matrix">
+      <map>
+        <entry key="MARIADB.CreateComplete" value="QualifyWithSchema=NEVER, CreateOrReplace=1, ConstraintContext=CONSTRAINT_AFTER_TABLE" />
+      </map>
+    </option>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,7 +79,7 @@
       <workItem from="1601570182623" duration="5044000" />
       <workItem from="1601599887177" duration="3099000" />
       <workItem from="1601606573550" duration="2209000" />
-      <workItem from="1601930489651" duration="7981000" />
+      <workItem from="1601930489651" duration="8293000" />
     </task>
     <servers />
   </component>
@@ -146,10 +143,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="818" y="286" width="472" height="508" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601935505209" />
-    <state x="666" y="244" width="587" height="614" key="find.popup" timestamp="1601932994539">
+    <state x="666" y="244" width="587" height="614" key="find.popup" timestamp="1601938491701">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="666" y="244" width="587" height="614" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601932994539" />
+    <state x="666" y="244" width="587" height="614" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601938491701" />
     <state x="616" y="250" key="run.anything.popup" timestamp="1601933078328">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
