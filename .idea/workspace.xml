@@ -20,41 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd22777e-05f9-4a4e-9695-537472c76685" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/laboratory/_nav.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/add-laboratory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/add-record.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/assets/css/add.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/assets/css/admin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/assets/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/assets/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/assets/img/bg-img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/assets/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/assets/js/custom-scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/assets/js/jquery-1.10.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/assets/js/jquery.metisMenu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/errors.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/jquerry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/jquery-1.12.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/jquery.timepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/jquery.timepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/laboratory-dashboard.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/load.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/rec-member.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/rec.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/server.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/view-appointment.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/view-laboratory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory/view-schedule.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dfa723c3-32e1-460c-b13a-70c1658ced57.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/dfa723c3-32e1-460c-b13a-70c1658ced57.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/assets/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/assets/img/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.php" beforeDir="false" afterPath="$PROJECT_DIR$/server.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/News.html" beforeDir="false" afterPath="$PROJECT_DIR$/News.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appointment.php" beforeDir="false" afterPath="$PROJECT_DIR$/appointment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forget.php" beforeDir="false" afterPath="$PROJECT_DIR$/forget.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,17 +51,17 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/doctor/assets/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\C809610\Projects\Tests\hospital-management-system-in-php\doctor\assets\img" />
+      <recent name="C:\Users\C809610\Projects\Tests\hospital-management-system-in-php\images" />
+      <recent name="C:\Users\C809610\Projects\Tests\hospital-management-system-in-php\user\assets\img" />
+      <recent name="C:\Users\C809610\Projects\Tests\hospital-management-system-in-php\nurse\assets\img" />
       <recent name="C:\Users\C809610\Projects\Tests\hospital-management-system-in-php\laboratory\assets\img" />
-      <recent name="C:\Users\C809610\Projects\Tests\hospital-management-system-in-php\assets\img" />
-      <recent name="C:\Users\C809610\Projects\Tests\hospital-management-system-in-php" />
-      <recent name="C:\Users\C809610\Projects\Tests\hospital-management-system-in-php\nurse" />
+      <recent name="C:\Users\C809610\Projects\Tests\hospital-management-system-in-php\doctor\assets\img" />
     </key>
   </component>
   <component name="RunManager">
@@ -108,7 +82,7 @@
       <workItem from="1601570182623" duration="5044000" />
       <workItem from="1601599887177" duration="3099000" />
       <workItem from="1601606573550" duration="2209000" />
-      <workItem from="1601930489651" duration="7618000" />
+      <workItem from="1601930489651" duration="7981000" />
     </task>
     <servers />
   </component>
@@ -144,22 +118,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="690" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601613572132" />
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1601613572532">
+    <state width="1877" height="136" key="GridCell.Tab.0.bottom" timestamp="1601938317421">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601613572532" />
-    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1601613572532">
+    <state width="1877" height="136" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601938317421" />
+    <state width="1877" height="136" key="GridCell.Tab.0.center" timestamp="1601938317421">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601613572532" />
-    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1601613572531">
+    <state width="1877" height="136" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601938317421" />
+    <state width="1877" height="136" key="GridCell.Tab.0.left" timestamp="1601938317421">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601613572531" />
-    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1601613572532">
+    <state width="1877" height="136" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601938317421" />
+    <state width="1877" height="136" key="GridCell.Tab.0.right" timestamp="1601938317421">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601613572532" />
+    <state width="1877" height="136" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601938317421" />
     <state x="795" y="463" key="NewPhpFileDialog" timestamp="1601572609500">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

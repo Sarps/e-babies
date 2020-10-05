@@ -22,7 +22,7 @@
             <div class="col-md-4 col-sm-4 col-xs-12">
             </div>
             <div class="col-md-4 col-sm-4 col-xs-12">
-                <h1 style="color: green;margin-top: 3vh;text-align: center;">WELCOME TO HMS</h1>
+                <h1 style="color: green;margin-top: 3vh;text-align: center;">WELCOME TO E-BABIES</h1>
                 <div class="login-form  form-container">
 
 
