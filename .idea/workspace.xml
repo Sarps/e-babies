@@ -20,11 +20,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd22777e-05f9-4a4e-9695-537472c76685" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/laboratory/_nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/add-laboratory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/add-record.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/assets/css/add.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/assets/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/assets/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/assets/img/bg-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/assets/js/custom-scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/assets/js/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/assets/js/jquery.metisMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/errors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/jquerry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/jquery-1.12.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/jquery.timepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/jquery.timepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/laboratory-dashboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/load.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/rec-member.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/rec.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/view-appointment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/view-laboratory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laboratory/view-schedule.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dfa723c3-32e1-460c-b13a-70c1658ced57.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/dfa723c3-32e1-460c-b13a-70c1658ced57.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nurse/_nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/nurse/_nav.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nurse/server.php" beforeDir="false" afterPath="$PROJECT_DIR$/nurse/server.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nurse/view-prescription.php" beforeDir="false" afterPath="$PROJECT_DIR$/nurse/view-prescription.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nurse/view-schedule.php" beforeDir="false" afterPath="$PROJECT_DIR$/nurse/view-schedule.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/assets/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/assets/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.php" beforeDir="false" afterPath="$PROJECT_DIR$/server.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +77,17 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/nurse" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/doctor/assets/img" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\C809610\Projects\Tests\hospital-management-system-in-php\nurse" />
+      <recent name="C:\Users\C809610\Projects\Tests\hospital-management-system-in-php\doctor\assets\img" />
+      <recent name="C:\Users\C809610\Projects\Tests\hospital-management-system-in-php\laboratory\assets\img" />
+      <recent name="C:\Users\C809610\Projects\Tests\hospital-management-system-in-php\assets\img" />
       <recent name="C:\Users\C809610\Projects\Tests\hospital-management-system-in-php" />
+      <recent name="C:\Users\C809610\Projects\Tests\hospital-management-system-in-php\nurse" />
     </key>
   </component>
   <component name="RunManager">
@@ -75,6 +108,7 @@
       <workItem from="1601570182623" duration="5044000" />
       <workItem from="1601599887177" duration="3099000" />
       <workItem from="1601606573550" duration="2209000" />
+      <workItem from="1601930489651" duration="7618000" />
     </task>
     <servers />
   </component>
@@ -98,10 +132,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="805" y="204" key="#PHP/0.0.1920.1080@0.0.1920.1080" timestamp="1601403110146" />
-    <state x="336" y="380" key="#SQL_Dialects" timestamp="1601403013669">
+    <state x="336" y="380" key="#SQL_Dialects" timestamp="1601935412944">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="336" y="380" key="#SQL_Dialects/0.0.1920.1080@0.0.1920.1080" timestamp="1601403013669" />
+    <state x="336" y="380" key="#SQL_Dialects/0.0.1920.1080@0.0.1920.1080" timestamp="1601935412944" />
     <state x="552" y="197" width="1092" height="731" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601403112280">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -134,13 +168,17 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="835" y="429" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1080@0.0.1920.1080" timestamp="1601419886072" />
-    <state x="818" y="286" width="472" height="508" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1601605493451">
+    <state x="818" y="286" width="472" height="508" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1601935505209">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="818" y="286" width="472" height="508" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601605493451" />
-    <state x="666" y="244" width="587" height="614" key="find.popup" timestamp="1601571597762">
+    <state x="818" y="286" width="472" height="508" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601935505209" />
+    <state x="666" y="244" width="587" height="614" key="find.popup" timestamp="1601932994539">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="666" y="244" width="587" height="614" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601571597762" />
+    <state x="666" y="244" width="587" height="614" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601932994539" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1601933078328">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601933078328" />
   </component>
 </project>

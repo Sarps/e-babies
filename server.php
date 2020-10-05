@@ -186,6 +186,7 @@ if (isset($_POST['login_user'])) {
                     $_SESSION['username'] = $username;
                     $_SESSION['success'] = "You are now logged in";
                     header('location: nurse/nurse-dashboard.php');
+
                 } else if ($result['type'] == 'pharmacy') {
                     $_SESSION['username'] = $username;
                     $_SESSION['success'] = "You are now logged in";
@@ -204,12 +205,12 @@ if (isset($_POST['login_user'])) {
                 //   header('location: account/user-dashboard.html');
 
                 // }
-                // else if($result['type'] == 'laboratory'){
-                //   $_SESSION['username'] = $username;
-                //   $_SESSION['success'] = "You are now logged in";
-                //   header('location: laboratory/user-dashboard.html');
+                 else if($result['type'] == 'laboratory'){
+                   $_SESSION['username'] = $username;
+                   $_SESSION['success'] = "You are now logged in";
+                   header('location: laboratory/laboratory-dashboard.php');
 
-                // }
+                 }
             }
 
         } else {
