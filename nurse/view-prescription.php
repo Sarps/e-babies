@@ -97,6 +97,7 @@ function fill_brand($connect)
         </ul>
     </nav>
     <!--/. NAV TOP  -->
+
     <nav class="navbar-default navbar-side" role="navigation">
         <div class="sidebar-collapse">
             <ul class="nav" id="main-menu">
@@ -115,15 +116,9 @@ function fill_brand($connect)
                 </li>
 
                 <li>
-                    <a class="active-menu" href="#"><i class="fa fa-sitemap"></i> Prescription<span
-                                class="fa arrow"></span></a>
+                    <a href="#" class="active-menu"><i class="fa fa-sitemap"></i> Prescription<span class="fa arrow"></span></a>
                     <ul class="nav nav-second-level">
-                        <li>
-                            <a href="add-prescription.php">Add Prescription</a>
-                        </li>
-                        <li>
-                            <a href="view-prescription.php" class="active-menu">View All Prescription</a>
-                        </li>
+                        <li><a href="view-prescription.php" class="active-menu">View All Prescription</a></li>
                     </ul>
                 </li>
                 <li>
@@ -131,11 +126,9 @@ function fill_brand($connect)
                 </li>
 
             </ul>
-
         </div>
 
     </nav>
-
     <!-- /. NAV SIDE  -->
 
     <div id="page-wrapper">

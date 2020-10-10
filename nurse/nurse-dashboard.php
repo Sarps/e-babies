@@ -38,11 +38,12 @@
     <div id="wrapper">
         <nav class="navbar navbar-default top-navbar" role="navigation">
             <div class="navbar-header">
-                <a class="navbar-brand" href="nurse-dashboard.html"><img src="assets/img/logo.png" alt="not found" width="230px" height="60px"></a>
+                <a class="navbar-brand" href="admin-dashboard.php"><img src="assets/img/logo.png" alt="not found"
+                                                                        width="230px" height="60px"></a>
 
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-collapse">
                     <span class="dark-blue-text"><i
-                        class="fa fa-bars fa-1x"></i></span>    
+                                class="fa fa-bars fa-1x"></i></span>
                 </button>
 
                 <div id="sideNav" href="">
@@ -58,10 +59,11 @@
                         <i class="fa fa-user fa-fw"></i> <i class="fa fa-caret-down"></i>
                     </a>
                     <ul class="dropdown-menu dropdown-user">
-                    <li><a href="#" style="text-decoration: none;color: inherit;"><i class="fa fa-user fa-fw"></i> <?php  if (isset($_SESSION['username'])) : ?>
-    	<?php echo $_SESSION['username']; ?> <?php endif ?></a>
-                          
-                    <li><a href="#"><i class="fa fa-gear fa-fw"></i> Settings</a>
+                        <li><a href="#" style="text-decoration: none;color: inherit;"><i
+                                        class="fa fa-user fa-fw"></i> <?php if (isset($_SESSION['username'])) : ?>
+                                    <?php echo $_SESSION['username']; ?><?php endif ?></a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-gear fa-fw"></i> Settings</a>
                         </li>
                         <li class="divider"></li>
                         <li><a href="logout.php"><i class="fa fa-sign-out fa-fw"></i> Logout</a>
@@ -69,6 +71,7 @@
                     </ul>
                     <!-- /.dropdown-user -->
                 </li>
+
                 <!-- /.dropdown -->
             </ul>
         </nav>
@@ -78,24 +81,22 @@
                 <ul class="nav" id="main-menu">
 
                     <li>
-                        <a class="active-menu" href="nurse-dashboard.php"><i class="fa fa-dashboard"></i> Home</a>
+                        <a href="nurse-dashboard.php" class="active-menu"><i class="fa fa-dashboard"></i> Home</a>
                     </li>
-                    <!-- <li>
-                        <a href="#"><i class="fa fa-desktop"></i> UI Elements</a>
-                    </li> -->
+
                     <li>
-                        <a href="view-appointment.php"><i class="fa fa-sitemap"></i> View All OPD Appointment</a>
+                        <a href="#"><i class="fa fa-sitemap"></i> Patient Record<span class="fa arrow"></span></a>
+                        <ul class="nav nav-second-level">
+                            <li>
+                                <a href="add-record.php" class="active-menu">Record Vital Signs</a>
+                            </li>
+                        </ul>
                     </li>
 
                     <li>
                         <a href="#"><i class="fa fa-sitemap"></i> Prescription<span class="fa arrow"></span></a>
                         <ul class="nav nav-second-level">
-                            <li>
-                                <a href="add-prescription.php">Add Prescription</a>
-                            </li>
-                            <li>
-                                <a href="view-prescription.php">View All Prescription</a>
-                            </li>
+                            <li><a href="view-prescription.php">View All Prescription</a></li>
                         </ul>
                     </li>
                     <li>
@@ -103,7 +104,6 @@
                     </li>
 
                 </ul>
-
             </div>
 
         </nav>
